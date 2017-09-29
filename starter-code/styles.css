@@ -1,0 +1,392 @@
+* {
+  font-family: "Open Sans", sans-serif;
+  margin:0px;
+}
+h1 {
+	font-family: "Open Sans", sans-serif;
+	font-size: 36px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 300;
+	line-height: 46px;
+}
+h3 {
+	font-family: "Open Sans";
+	font-size: 20px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 600;
+	line-height: 26px;
+}
+p {
+	font-family: "Open Sans";
+	font-size: 16px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	line-height: 22px;
+}
+
+
+/*Menu*/
+
+nav {
+  background-color: #C12127;
+  color: rgba(255,255,255,0.8);
+  padding-top: 15px;
+  height: 27px;
+  width: 100%;
+  font-size: 14px;
+
+}
+
+nav a {
+  color: rgba(255,255,255,0.8);
+  text-decoration: none;
+  padding-top: 100px;
+
+
+}
+.top-links {
+  display: inline-block;
+  float: right;
+  padding: 0;
+  margin: 0 20px 0 0;
+  margin-left: 50px;
+}
+
+.top-links li {
+  display: inline-block;
+  padding: 0;
+  margin: 0 15px;
+  position: relative;
+  top: -17px;
+  left: 0px;
+  font-size: 14px;
+}
+
+
+header{
+  color: #ffffff;
+  background-image: url(file:///home/maria/codigo/lab-html-module-exercise-master/starter-code/images/hero-cityscape.svg);
+  Position: 0 0;
+  Repeat: no-repeat;
+  height: 443.17px;
+  width: 100%;
+}
+.logo
+{
+  float: left;
+  padding-top: 20px;
+  padding-right: 20px;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+.search-bar{
+  float: left;
+  padding-top: 15px;
+  width: 920px;
+  vertical-align: middle;
+  white-space: nowrap;
+}
+.search-bar input#search{
+  width: 868px;
+  height: 48.61px;
+  background: #1b5070;
+  border: 1px solid rgba(255,255,255,0.2);
+  font-size: 14pt;
+  font-style: normal;
+  font-weight: normal;
+  float: left;
+  color: #fff;
+  padding-left: 15px;
+
+}
+.search-bar
+button.icon{
+
+  border: none;
+  background: #1b5070;
+  border: 1px solid rgba(255,255,255,0.2);
+  height: 48.61px;
+  width: 50px;
+  padding-top: 16px;
+  padding-left: 15px;
+  color: #fff;
+  opacity: 1;
+}
+.icon [type=submit] {
+    position: absolute;
+    top: 1px;
+    right: 0;
+    height: 34px;
+    width: 34px;
+    padding: 6px;
+    margin-bottom: 0px;
+    border: 0;
+  }
+
+
+  /*User login*/
+
+.user {
+    color: rgba(255,255,255,0.8);
+    padding-top: 10px;
+    display: inline-block;
+    float: left;
+    margin: 0 0px 0 0;
+    margin-left: 20px;
+    padding: 0;
+
+  }
+
+.user li {
+  display: inline-block;
+  padding: 0;
+  margin: 0 10px;
+  position: relative;
+  top: 30px;
+  left: -14px;
+  font-size: 17px;
+}
+.sp
+{
+  text-decoration: none;
+  color: rgba(255,255,255,0.8);
+}
+
+.bear
+{
+  float: left;
+  margin-top: 0px;
+  padding-left: 70px;
+  padding-right: 0px;
+}
+
+
+.Container-Build
+{
+float: left;
+position: relative;
+top: 45px;
+left: -10px;
+line-height: 62px;
+}
+
+  .Build-amazing
+    {
+      font-family: : 'Open Sans', sans-serif;
+      style: normal;
+      color: #fff;
+      font-size:48px;
+      font-weight: 300;
+      line-height:62px;
+    }
+    .Dscrptn
+    {
+      font-family:'Open Sans', sans-serif;
+      style: normal;
+      color: #fff;
+      font-size:18px;
+      weight:normal;
+      line-height: 23px;
+      padding-top:15px;
+      padding-bottom:10px;
+
+    }
+.Sign-up-for-nmp
+{
+    color: #fff;
+    background-color: #f09233;
+    position: relative;
+    top: 10px;
+    left: 0px;
+    font-weight: 400;
+    border-radius: 20px;
+    padding: 9px 28px 10px 28px;
+    font-size: 18px;
+    text-decoration: none;
+  }
+
+
+/*Section1*/
+
+.left-image
+{
+  background-color:#2b364a;
+  float: left;
+  height: 333.58px;
+  padding-top: 107px;
+  padding-left: 121px;
+  padding-right: -15px;
+  padding-bottom:138px;
+  width: 560px;
+}
+.description1
+{
+  background-color:#2b364a;
+  float:left;
+  height: 333.58px;
+  padding-top: 139px;
+  padding-left: 60px;
+  padding-right: 108px;
+  padding-bottom:106px;
+  width: 463.33;
+  color:#ffff;
+  text-align: left;
+}
+.text1
+{
+  font: 'Open Sans',sans-serif;
+  style: normal;
+  color: #fff;
+  size:36px;
+  weight:300;
+  line-height: 46px;
+  text-align: left;
+}
+
+.Signup1
+{
+    color: #fff;
+    background-color: #cb3837;
+    position: relative;
+    top: 20px;
+    left: 0px;
+  }
+
+.Sign-up {
+    font-weight: 400;
+    border-radius: 20px;
+    padding: 7px 26px 8px 26px;
+    font-size: 18px;
+    text-decoration: none;
+  }
+  .or
+  {
+    color: #e5e5cc;
+    position: relative;
+    top: 45px;
+    left: 0px;
+    font-size: 19px
+  }
+  .Learn-more
+  {
+    color: #e5e5cc;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    text-decoration: none;
+    font-weight:bold;
+    font-size: 16px;
+  }
+/*Section2*/
+
+#section2
+{
+  color: #ffffff;
+  background-image: url(file:///home/maria/codigo/lab-html-module-exercise-master/starter-code/images/npm-is-BOXES.svg);
+  background-size: cover;
+  position:relative;
+  Repeat: no-repeat;
+  padding-top: 10px;
+  height: 500px;
+  width: 100%;
+  clear:both;
+}
+
+.container2
+{
+float: left;
+position: relative;
+top: 110px;
+left: 120px;
+}
+
+  .what-is
+    {
+      font-family: : 'Open Sans', sans-serif;
+      style: normal;
+      color: #fff;
+      size:36px;
+      weight:300;
+      line-height: 30px;
+    }
+    .article2
+    {
+      font-family:'Open Sans', sans-serif;
+      style: normal;
+      color: #fff;
+      size:16px;
+      weight:normal;
+      line-height: 22px;
+
+    }
+    .install-npm
+    {
+        color: #fff;
+        background-color: rgb(49, 68, 88); #f09233;
+        position: relative;
+        top: 10px;
+        left: 0px;
+        font-weight: 400;
+        border-radius: 20px;
+        padding: 9px 28px 10px 28px;
+        text-decoration: none;
+      }
+
+/*Section3*/
+
+  .section3
+  {
+  float: left;
+  position:relative;
+  top: 80px;
+  width: 100%;
+  text-align: center;
+  line-height: 28px;
+  }
+
+  .color-h
+  {
+    color:#3a3e4b
+  }
+  .color-text
+  {
+    color:#6c7786;
+  }
+
+.find
+{
+  float: left;
+  height: 250px;
+  padding-top: 120px;
+  padding-bottom: 50px;
+  width: 30%;
+  margin-left:75px;
+}
+.link
+{
+  color: #d80023;
+  text-decoration: none;
+}
+.discover
+{
+
+  float: left;
+  height: 250px;
+  padding-top: 120px;
+  padding-bottom: 50px;
+  width: 30%;
+
+}
+.backpack
+{
+
+  float: left;
+  height: 250px;
+  padding-top: 120px;
+  padding-bottom: 50px;
+  width: 30%;
+}
